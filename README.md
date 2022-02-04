@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,this is Ron</h1>
 <h3 align="center">A passionate innovator and developer from Mumbai</h3>
 
-- 🔭 I’m currently working on [Cash Genius- A fake currency detector for](https://github.com/ron0105/Cashgenius-android-)
+- 🔭 I’m currently working on [Cash Genius- Cash handling Solutions](https://github.com/ron0105/Cashgenius-android-)
 
 - 📝 I regularly write articles on [https://rohan0105.wixsite.com/website](https://rohan0105.wixsite.com/website)
 

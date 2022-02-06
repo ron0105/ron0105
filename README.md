@@ -4,7 +4,7 @@
 ![jim-carrey-bruce-almighty](https://user-images.githubusercontent.com/51908645/152697663-3dc0567b-7f88-4e42-a3d7-1467c7307805.gif)
 
 - 🔭 I’m currently working on [Cash Genius- Cash handling Solutions](https://github.com/ron0105/Cashgenius-android-)
-- 📝 I regularly write articles on [https://rohan0105.wixsite.com/websiteeee](https://rohan0105.wixsite.com/website)
+- 📝 I regularly write articles on [https://rohan0105.wixsite.com/website](https://rohan0105.wixsite.com/website)
 - 💬 Let's talk about **Tech, finance , AI , Fintech**
 - 📫 How to reach me **rohan0105@gmail.com**
 - ⚡ Fun fact **I am very adaptable and easy to collaborate with :)**

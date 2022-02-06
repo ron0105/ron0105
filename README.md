@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋,this is Ron</h1>
 <h3 align="left">A passionate innovator and developer from Mumbai</h3>
-<img align="right" alt="Coding" width="400" src="![jim-carrey-bruce-almighty](https://user-images.githubusercontent.com/51908645/152697663-3dc0567b-7f88-4e42-a3d7-1467c7307805.gif)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on [Cash Genius- Cash handling Solutions](https://github.com/ron0105/Cashgenius-android-)
 - 📝 I regularly write articles on [https://rohan0105.wixsite.com/website](https://rohan0105.wixsite.com/website)

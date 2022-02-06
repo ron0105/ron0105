@@ -2,7 +2,7 @@
 <h3 align="left">A passionate innovator and developer from Mumbai</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [Cash Genius- Cash handling Solutions](https://github.com/ron0105/Cashgenius-android-)
+- 🔭 I’m currently working on [Cash Genius](https://github.com/ron0105/Cashgenius-android-)
 - 📝 I regularly write articles on [https://rohan0105.wixsite.com/website](https://rohan0105.wixsite.com/website)
 - 💬 Let's talk about **Tech, finance , AI , Fintech**
 - 📫 How to reach me **rohan0105@gmail.com**

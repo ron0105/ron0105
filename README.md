@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋,this is Ron</h1>
-<h3 align="center">A passionate innovator and developer from Mumbai</h3>
+<h1 align="left">Hi 👋,this is Ron</h1>
+<h3 align="left">A passionate innovator and developer from Mumbai</h3>
 
 - 🔭 I’m currently working on [Cash Genius- Cash handling Solutions](https://github.com/ron0105/Cashgenius-android-)
 - 📝 I regularly write articles on [https://rohan0105.wixsite.com/website](https://rohan0105.wixsite.com/website)
